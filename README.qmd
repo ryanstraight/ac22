@@ -1,0 +1,54 @@
+---
+title: "Who Says You R Not a Coder?"
+subtitle: "Building Data-Driven, Open Source, Static Course Content for Accessibility and Interactivity with R"
+description: |
+  Powerpoint is bloated. Learning Management Systems can be unfriendly. Proprietary tools can just disappear tomorrow. What's the solution? Join this session to discover how to create and distribute impressive, accessible, responsive, truly interactive course websites, instructional materials, and slide decks with plain text and a little R magic. No coding knowledge necessary and relevant to all!
+author:
+  - name: "Dr. Ryan Straight"
+    url: https://ryanstraight.com
+    affiliation: "University of Arizona"
+    affiliation-url: https://azcast.arizona.edu
+
+abstract: |
+  In this session, we will introduce you to a variety of tools, processes, and methods to take home with you and explore. Using an existing Statistics class as an example, you'll see how you can use simple, plain text and minimum code to build portable, accessible, and truly interactive content that is data-driven and open. While the example we use is an upper-division applied statistics class, the methods used can be (and are!) applied to any discipline and any level. We will barely scratch the surface in the time allotted, so attendees will go home with an overflowing toolbox to explore. As an added bonus, if you're into OER, you'll find an open source method for creating and distributing multimedia texts using the same exact tools.
+  Attendees to this session will be provided with a cloud-based template for building these accessible and compact experiences. They will take this access home with them to explore and build upon at their leisure. Knowledge of Git and GitHub is encouraged but not required.
+  
+citation:
+  type: speech
+  genre: "Education Session"
+  container-title: "OLC Accelerate 2022"
+  
+csl: apa.csl
+  
+license: CC BY-SA
+  
+date: 2022-11-16
+
+format:
+  html: default
+  pdf: default
+  gfm:
+    toc: false
+    
+title-block-banner: true
+    
+execute:
+  echo: false
+  message: false
+  warning: false
+---
+
+## Slide Deck
+
++ <https://ryanstraight.github.io/ac22-deck/>
+
+## Examples
+
+Here are some examples used in the session:
+
++ A public domain book [as responsive a webpage](https://ryanstraight.github.io/ac22-book), [an ePub](https://ryanstraight.github.io/ac22-book/Quarto-ebook-demonstration.epub), and [a PDF](https://ryanstraight.github.io/ac22-book/Quarto-ebook-demonstration.pdf).
++ A document [as a webpage](https://uaappcomp.github.io/apcv302/info/syllabus/index.html) and [as a PDF](https://uaappcomp.github.io/apcv302/info/syllabus/APCV302_FA_22_7W1_Straight.pdf), again from a single source.
++ The slide deck used for this talk [both published as a responsive webpage](https://ryanstraight.github.io/ac22-deck/) and [as the raw code for you to explore](https://github.com/ryanstraight/ac22-deck/)!
+
+## Resources
+
