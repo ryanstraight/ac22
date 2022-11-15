@@ -38,6 +38,12 @@ execute:
   warning: false
 ---
 
+You can view this readme file three different ways:
+
++ [As a formatted HTML page](https://ryanstraight.github.io/ac22/README.html)
++ [As a standard GitHub README file](https://github.com/ryanstraight/ac22/)
++ [And as a PDF](https://ryanstraight.github.io/ac22/README.pdf)
+
 ## Slide Deck
 
 + <https://ryanstraight.github.io/ac22-deck/>
