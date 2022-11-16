@@ -4,7 +4,7 @@ subtitle: "Building Data-Driven, Open Source, Static Course Content for Accessib
 description: |
   Powerpoint is bloated. Learning Management Systems can be unfriendly. Proprietary tools can just disappear tomorrow. What's the solution? Join this session to discover how to create and distribute impressive, accessible, responsive, truly interactive course websites, instructional materials, and slide decks with plain text and a little R magic. No coding knowledge necessary and relevant to all!
 author:
-  - name: "Dr. Ryan Straight"
+  - name: "Ryan Straight"
     url: https://ryanstraight.com
     affiliation: "University of Arizona"
     affiliation-url: https://azcast.arizona.edu
@@ -56,5 +56,18 @@ Here are some examples used in the session:
 + A document [as a webpage](https://uaappcomp.github.io/apcv302/info/syllabus/index.html) and [as a PDF](https://uaappcomp.github.io/apcv302/info/syllabus/APCV302_FA_22_7W1_Straight.pdf), again from a single source.
 + The slide deck used for this talk [both published as a responsive webpage](https://ryanstraight.github.io/ac22-deck/) and [as the raw code for you to explore](https://github.com/ryanstraight/ac22-deck/)!
 
-## Resources
+## How to Get Started
 
+1. Download and install [RStudio](https://posit.co/downloads/)
+1. Download and install [Quarto](https://quarto.org)
+1. Start building!
+
+### Resources
+
+Here is a list of some of my favorite Quarto resources that should help you hit the ground running.
+
++ [Quarto Official Documentation](https://quarto.org/)
++ [Get Started with Quarto](https://jthomasmock.github.io/quarto-2hr-webinar/)
++ [A Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/)
++ [Slide extension: RoughNotation](https://emilhvitfeldt.github.io/quarto-roughnotation/#/title-slide)
++ [https://github.com/ryanstraight/resources#quarto](https://github.com/ryanstraight/resources#quarto)

@@ -1,6 +1,6 @@
 Who Says You R Not a Coder?
 ================
-Dr. Ryan Straight
+Ryan Straight
 11/16/22
 
 You can view this readme file three different ways:
@@ -33,4 +33,22 @@ Here are some examples used in the session:
   webpage](https://ryanstraight.github.io/ac22-deck/) and [as the raw
   code for you to explore](https://github.com/ryanstraight/ac22-deck/)!
 
-## Resources
+## How to Get Started
+
+1.  Download and install [RStudio](https://posit.co/downloads/)
+2.  Download and install [Quarto](https://quarto.org)
+3.  Start building!
+
+### Resources
+
+Here is a list of some of my favorite Quarto resources that should help
+you hit the ground running.
+
+- [Quarto Official Documentation](https://quarto.org/)
+- [Get Started with
+  Quarto](https://jthomasmock.github.io/quarto-2hr-webinar/)
+- [A Quarto tip a
+  day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/)
+- [Slide extension:
+  RoughNotation](https://emilhvitfeldt.github.io/quarto-roughnotation/#/title-slide)
+- <https://github.com/ryanstraight/resources#quarto>
